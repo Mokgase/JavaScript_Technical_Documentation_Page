@@ -1,0 +1,28 @@
+
+		.topnav a {
+
+            float: left;
+            color: #f2f2f2;
+            text-align: center;
+            padding: 14px 16px;
+            margin: 0;
+            text-decoration: none;
+            font-size: 17px;
+          }
+          
+          .topnav a:hover {
+            background-color: #a5f7dd;
+            color: black;
+          }
+          
+          .topnav a.active {
+            color: white;
+          }
+          body{
+              background:linear-gradient(to bottom right,#a5f7dd,grey);
+          
+          }
+          h1{
+              text-align: left;
+          }
+              
